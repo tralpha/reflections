@@ -1,0 +1,49 @@
+Viewing a diff between two versions of a file helped me learn a lot about the bug!
+I really loved the way it simply goes and compares the two files. If only I knew this trick a long time before...
+Then I would have been able to code a lot more effeciently! I would have been a much better developer, and would have learned a lot faster! OMG... 
+However, now I know it, and I'm sure I'll code a lot faster than before. Again, thanks to Udacity!
+
+This is for the second question, on how could having easy access to the entire history of a file make me a more efficient programmer in the long term? 
+Wow, this is like magic. I love doing this! I'm sure with version control, I'll be efficient in doing anything, no matter programming or writting articles or any other stuff. This is really cool.
+I won't have to look throughout all the file to find the error by myself, I'll just let the computer do it for me! Yohooo!
+
+Back to the reflections. Now the question is: "What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?"
+Well, nice question. I'll have it answered in two versions: Pros, and Cons respectively.
+Pros:
+- I think this will avoid too little commits, and will also avoid too much commits, even the stupid ones. I will compare this to saving a file in Word Documents. When you do too little changes, you don't really want to save it. But it's when you do a lot of changes that you really want to save it.
+Cons:
+- You really may forget to save some very important work, which may take a lot of time to redo again.
+
+Hey Reflections! I'm back:)
+Reflect: Multi-File Commits
+This is because in coding, one feature change may span many different files at the same time. A good example is in Website Building!
+
+Reflect: Using Git to View History.
+Wow! This is awesome. I will definitely use the git diff command a lot to view the history of files! This will be extremely useful when building my different websites and web apps. 
+Git log will help in seeing all the changes which ever occured in my development of the website, while Git diff will help me see exactly where the changes occurred! This will make my development much faster and smooth
+
+Reflect: Confidence from Version Control
+Even before I was being asked this question about confidence with using version control, I already felt very empowered by it's abilities. I will now be able to make crazy changes to my software, without even worrying where the bug came from. This will be amazing, and I will really be able to become a software engineer with these abilities. Thanks Udacity. 
+
+Reflect: How Do You Want to Use Git?
+Well, Git will be extremely useful when building my website or portfolio. I will be able to move from different designs, change and add features with really no difficulties!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
