@@ -1,0 +1,7 @@
+Reflect: Initializing a Repository
+When a repository is initialized, a .git file is created. This is the file which stores all the meta data of that particular Git repository.
+This is needed in order to track and store all possible changes which occur in a Git repository.
+
+Reflect: Staging Area
+The saging area is where files which are to be committed are added. It adds a lot of value, because instead of getting a screenshot of the while repository your working in, you can instead commit the files where you made the changes.
+
