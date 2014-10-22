@@ -5,3 +5,9 @@ This is needed in order to track and store all possible changes which occur in a
 Reflect: Staging Area
 The saging area is where files which are to be committed are added. It adds a lot of value, because instead of getting a screenshot of the while repository your working in, you can instead commit the files where you made the changes.
 
+Reflect: Commit Size
+The staging area is quite useful. It will help me check exactly whih changes I've made and which one's I'm ready to commit without actually committing the changes.
+
+Reflect: When to Use Branches
+Branches will be useful when I want to change something on my project, but want to do it maybe as a side project. This is maybe when I want to chane the language, or add an experimental featuer to my project.
+And from there, I should keep in mind that I'll keep changing the website or project until it becomes good, and maybe I'll merge it.
