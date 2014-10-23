@@ -1,2 +1,6 @@
 When would you like to create a remote repository rather than keeping all your work local?
 - When I want more collaboration with other developers.
+
+Reflect: Manual vs. Automatic Pull
+I will always want to pull changes manually because some chnages in my public repository can be done by some other people, and I don't really want to it to mess around with my local repository.
+
