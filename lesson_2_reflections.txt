@@ -11,3 +11,47 @@ The staging area is quite useful. It will help me check exactly whih changes I'v
 Reflect: When to Use Branches
 Branches will be useful when I want to change something on my project, but want to do it maybe as a side project. This is maybe when I want to chane the language, or add an experimental featuer to my project.
 And from there, I should keep in mind that I'll keep changing the website or project until it becomes good, and maybe I'll merge it.
+
+Reflect: Visualizing with Diagrams
+Diagrams are extremely useful. It helps understand where my current checkout is, and also how commits are created. It's wonderful.
+
+Reflect: Merging two Branches
+The result is a new branch which contains the commits of the current checkout and also those of the other merged branches. The representation is in order to make it clearer for the person querying the history of the git file.
+
+Reflect: Automatic vs. Manual Merging
+Pros of Automatic merging:
+Automatic merging can save me a lot of time. I won't hav to spend time finding where there was in mistake in the file and correcting it
+Cons of Automatic merging:
+It can lead to new code which actually makes no sense. 
+Pros of Manual Merging:
+Actually manual merging is quite good, because it forces you to get a good grasp of the software or code you're writing. With this kind of merging you'll have to find the code yourself and understand the conflicts found inside.
+Cons of Manual Merging:
+It can really be a time waster!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
