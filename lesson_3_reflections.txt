@@ -4,3 +4,14 @@ When would you like to create a remote repository rather than keeping all your w
 Reflect: Manual vs. Automatic Pull
 I will always want to pull changes manually because some chnages in my public repository can be done by some other people, and I don't really want to it to mess around with my local repository.
 
+Reflect: Forks, Clones and Branches
+Forks are reproductions on the github servers of a repository,
+Clones are simply reproductions of a repository created by a same person
+Branches are other commits in a branch different from the HEAD branch.
+I would use forks when I want to use a repository from another user, git when I want to reproduce someone's repository on my local computer, and branches when I want to create an experimental feature or fix a bug.
+
+Reflect: Local Copies of remote Branches
+The benefit is that even if I'm offline, I could still merge the two changes and then correct the conflicts inside. It will kind of make me more productive, without needing internet access to correct my conflicts.
+
+Reflect: Collaboration using Git and GitHub
+I'll first put like a template of the file. Then I'll assign tasks to different people, who will then accomplish these tasks on branches. I'll review the tasks, and then accept it to my repository. This makes collaboration fantastic. 
