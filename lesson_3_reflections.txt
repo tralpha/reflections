@@ -15,3 +15,32 @@ The benefit is that even if I'm offline, I could still merge the two changes and
 
 Reflect: Collaboration using Git and GitHub
 I'll first put like a template of the file. Then I'll assign tasks to different people, who will then accomplish these tasks on branches. I'll review the tasks, and then accept it to my repository. This makes collaboration fantastic. 
+
+Reflect: When to use a separate branch
+I'll use a separate branch when:
+1. The master branch is not fully controlled by me
+2. I have a lot of other collaborators
+3. What I'm trying to do is very risky and may break the project I'm working on.
+
+The benefits it has is that you can actually take more risks, and do whatever you like, withouth worrying about changing the master branch in a repository.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
